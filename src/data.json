@@ -1,0 +1,1012 @@
+ [
+    {
+       "name":"Santiago Hirthe",
+       "location":"Queens",
+       "specialties":[
+          "Investment advice",
+          "Retirement planning"
+       ],
+       "certification":"Registered Investment Advisor (RIA)",
+       "avatar_url":"/avatars/A 1.png",
+       "id":1
+    },
+    {
+       "name":"Anastacio Kuhic",
+       "location":"Staten Island",
+       "specialties":[
+          "Retirement planning"
+       ],
+       "certification":"Chartered Mutual Fund Counselor (CMFC)",
+       "avatar_url":"/avatars/A 2.png",
+       "id":2
+    },
+    {
+       "name":"Ayla Osinski",
+       "location":"Manhattan",
+       "specialties":[
+          "Debt management"
+       ],
+       "certification":"Certified Public Accountant (CPA)",
+       "avatar_url":"/avatars/A 3.png",
+       "id":3
+    },
+    {
+       "name":"Jett Witting",
+       "location":"Manhattan",
+       "specialties":[
+          "Tax planning"
+       ],
+       "certification":"Chartered Life Underwriter (CLU)",
+       "avatar_url":"/avatars/A 4.png",
+       "id":4
+    },
+    {
+       "name":"Abraham Collins",
+       "location":"Manhattan",
+       "specialties":[
+          "Retirement planning"
+       ],
+       "certification":"Personal Financial Specialist (PFS)",
+       "avatar_url":"/avatars/A 5.png",
+       "id":5
+    },
+    {
+       "name":"Aliyah Kreiger",
+       "location":"Brooklyn",
+       "specialties":[
+          "Long-term care",
+          "Investment advice"
+       ],
+       "certification":"Registered Investment Advisor (RIA)",
+       "avatar_url":"/avatars/A 6.png",
+       "id":6
+    },
+    {
+       "location":"Bronx",
+       "specialties":[
+          "Estate planning",
+          "Budgeting"
+       ],
+       "certification":"Chartered Life Underwriter (CLU)",
+       "avatar_url":"/avatars/A 7.png",
+       "id":7
+    },
+    {
+       "name":"Reagan Stamm",
+       "location":"Bronx",
+       "specialties":[
+          "Saving for college",
+          "Saving for college",
+          "Retirement planning"
+       ],
+       "certification":"Chartered Mutual Fund Counselor (CMFC)",
+       "avatar_url":"/avatars/A 8.png",
+       "id":8
+    },
+    {
+       "name":"Hillard Boehm",
+       "location":"Brooklyn",
+       "specialties":[
+          "Estate planning"
+       ],
+       "certification":"Certified Public Accountant (CPA)",
+       "avatar_url":"/avatars/A 9.png",
+       "id":9
+    },
+    {
+       "name":"Amanda Franecki",
+       "location":"Queens",
+       "certification":"Chartered Life Underwriter (CLU)",
+       "avatar_url":"/avatars/A 10.png",
+       "id":10
+    },
+    {
+       "name":"Hope Feil",
+       "location":"Bronx",
+       "specialties":[
+          "Debt management"
+       ],
+       "certification":"Certified Public Accountant (CPA)",
+       "avatar_url":"/avatars/A 11.png",
+       "id":11
+    },
+    {
+       "name":"Emmalee Lehner",
+       "location":"Bronx",
+       "specialties":[
+          "Budgeting",
+          "Long-term care",
+          "Debt management"
+       ],
+       "certification":"Registered Investment Advisor (RIA)",
+       "avatar_url":"/avatars/A 12.png",
+       "id":12
+    },
+    {
+       "name":"Jaeden Schumm",
+       "location":"Staten Island",
+       "specialties":[
+          "Estate planning"
+       ],
+       "certification":"Registered Investment Advisor (RIA)",
+       "avatar_url":"/avatars/A 13.png",
+       "id":13
+    },
+    {
+       "name":"Jan Kutch",
+       "location":"Staten Island",
+       "specialties":[
+          "Budgeting"
+       ],
+       "certification":"Personal Financial Specialist (PFS)",
+       "avatar_url":"/avatars/A 14.png",
+       "id":14
+    },
+    {
+       "name":"Opal Bogan",
+       "location":"Bronx",
+       "specialties":[
+          "Tax planning"
+       ],
+       "certification":"Chartered Mutual Fund Counselor (CMFC)",
+       "avatar_url":"/avatars/A 15.png",
+       "id":15
+    },
+    {
+       "name":"Patrick Schmidt",
+       "location":"Manhattan",
+       "specialties":[
+          "Debt management"
+       ],
+       "certification":"Certified Public Accountant (CPA)",
+       "avatar_url":"/avatars/A 16.png",
+       "id":16
+    },
+    {
+       "name":"Patrick Schneider",
+       "location":"Queens",
+       "specialties":[
+          "Estate planning",
+          "Long-term care",
+          "Estate planning"
+       ],
+       "certification":"Registered Investment Advisor (RIA)",
+       "avatar_url":"/avatars/A 17.png",
+       "id":17
+    },
+    {
+       "name":"Fletcher Cummings",
+       "location":"Bronx",
+       "specialties":[
+          "Estate planning"
+       ],
+       "certification":"Personal Financial Specialist (PFS)",
+       "avatar_url":"/avatars/A 18.png",
+       "id":18
+    },
+    {
+       "name":"Raymundo Maggio",
+       "location":"Queens",
+       "specialties":[
+          
+       ],
+       "certification":"Chartered Financial Analyst (CFA)",
+       "avatar_url":"/avatars/A 19.png",
+       "id":19
+    },
+    {
+       "location":"Manhattan",
+       "specialties":[
+          "Tax planning"
+       ],
+       "certification":"Personal Financial Specialist (PFS)",
+       "avatar_url":"/avatars/A 20.png",
+       "id":20
+    },
+    {
+       "name":"Randi Gislason",
+       "location":"Bronx",
+       "specialties":[
+          "Saving for college"
+       ],
+       "certification":"Certified Financial Planner (CFP)",
+       "avatar_url":"/avatars/A 21.png",
+       "id":21
+    },
+    {
+       "name":"Ike Cassin",
+       "location":"Brooklyn",
+       "specialties":[
+          "Tax planning"
+       ],
+       "certification":"Certified Financial Planner (CFP)",
+       "avatar_url":"/avatars/A 22.png",
+       "id":22
+    },
+    {
+       "location":"Brooklyn",
+       "specialties":[
+          
+       ],
+       "certification":"Chartered Financial Consultant (ChFC)",
+       "avatar_url":"/avatars/A 23.png",
+       "id":23
+    },
+    {
+       "name":"Christian Cremin",
+       "location":"Manhattan",
+       "specialties":[
+          "Debt management"
+       ],
+       "certification":"Chartered Life Underwriter (CLU)",
+       "id":24
+    },
+    {
+       "name":"Micah Conn",
+       "location":"Bronx",
+       "specialties":[
+          "Long-term care",
+          "Saving for college",
+          "Estate planning"
+       ],
+       "certification":"Personal Financial Specialist (PFS)",
+       "avatar_url":"/avatars/A 25.png",
+       "id":25
+    },
+    {
+       "name":"Anjali Feil",
+       "location":"Staten Island",
+       "specialties":[
+          "Tax planning",
+          "Estate planning",
+          "Retirement planning"
+       ],
+       "certification":"Personal Financial Specialist (PFS)",
+       "avatar_url":"/avatars/A 26.png",
+       "id":26
+    },
+    {
+       "name":"Retta Bartoletti",
+       "location":"Staten Island",
+       "specialties":[
+          "Investment advice"
+       ],
+       "certification":"Chartered Financial Consultant (ChFC)",
+       "avatar_url":"/avatars/A 27.png",
+       "id":27
+    },
+    {
+       "name":"Cornelius Volkman",
+       "location":"Staten Island",
+       "certification":"Chartered Financial Analyst (CFA)",
+       "avatar_url":"/avatars/A 28.png",
+       "id":28
+    },
+    {
+       "name":"Alvah Collins",
+       "location":"Staten Island",
+       "specialties":[
+          "Estate planning"
+       ],
+       "certification":"Chartered Financial Analyst (CFA)",
+       "avatar_url":"/avatars/A 29.png",
+       "id":29
+    },
+    {
+       "name":"Ashton Nienow",
+       "location":"Brooklyn",
+       "specialties":[
+          "Debt management",
+          "Budgeting"
+       ],
+       "certification":"Chartered Financial Analyst (CFA)",
+       "avatar_url":"/avatars/A 30.png",
+       "id":30
+    },
+    {
+       "location":"Staten Island",
+       "specialties":[
+          "Saving for college"
+       ],
+       "certification":"Personal Financial Specialist (PFS)",
+       "avatar_url":"/avatars/A 31.png",
+       "id":31
+    },
+    {
+       "name":"Kennith Weber",
+       "location":"Manhattan",
+       "specialties":[
+          "Budgeting"
+       ],
+       "certification":"Certified Financial Planner (CFP)",
+       "avatar_url":"/avatars/A 32.png",
+       "id":32
+    },
+    {
+       "name":"Orion Hirthe",
+       "location":"Bronx",
+       "specialties":[
+          "Budgeting"
+       ],
+       "certification":"Personal Financial Specialist (PFS)",
+       "avatar_url":"/avatars/A 33.png",
+       "id":33
+    },
+    {
+       "name":"Barry Stiedemann",
+       "location":"Bronx",
+       "specialties":[
+          "Estate planning",
+          "Debt management"
+       ],
+       "certification":"Personal Financial Specialist (PFS)",
+       "avatar_url":"/avatars/A 34.png",
+       "id":34
+    },
+    {
+       "name":"Savanah Schmitt",
+       "location":"Brooklyn",
+       "specialties":[
+          "Saving for college",
+          "Retirement planning"
+       ],
+       "certification":"Chartered Life Underwriter (CLU)",
+       "avatar_url":"/avatars/A 35.png",
+       "id":35
+    },
+    {
+       "name":"Tania Jast",
+       "location":"Staten Island",
+       "certification":"Certified Financial Planner (CFP)",
+       "avatar_url":"/avatars/A 36.png",
+       "id":36
+    },
+    {
+       "name":"Cristal Miller",
+       "location":"Staten Island",
+       "specialties":[
+          "Saving for college",
+          "Saving for college"
+       ],
+       "certification":"Chartered Life Underwriter (CLU)",
+       "avatar_url":"/avatars/A 37.png",
+       "id":37
+    },
+    {
+       "name":"Bernita Sipes",
+       "location":"Manhattan",
+       "specialties":[
+          "Debt management",
+          "Debt management"
+       ],
+       "certification":"Certified Public Accountant (CPA)",
+       "avatar_url":"/avatars/A 38.png",
+       "id":38
+    },
+    {
+       "name":"Karl Dare",
+       "location":"Staten Island",
+       "specialties":[
+          "Estate planning",
+          "Estate planning"
+       ],
+       "certification":"Personal Financial Specialist (PFS)",
+       "avatar_url":"/avatars/A 39.png",
+       "id":39
+    },
+    {
+       "name":"Cierra Nitzsche",
+       "location":"Brooklyn",
+       "specialties":[
+          "Debt management",
+          "Investment advice"
+       ],
+       "certification":"Chartered Financial Analyst (CFA)",
+       "avatar_url":"/avatars/A 40.png",
+       "id":40
+    },
+    {
+       "name":"Ismael Leuschke",
+       "location":"Queens",
+       "specialties":[
+          "Long-term care"
+       ],
+       "certification":"Certified Public Accountant (CPA)",
+       "id":41
+    },
+    {
+       "name":"Zena Sporer",
+       "location":"Queens",
+       "specialties":[
+          "Debt management"
+       ],
+       "certification":"Chartered Financial Analyst (CFA)",
+       "avatar_url":"/avatars/A 42.png",
+       "id":42
+    },
+    {
+       "name":"Chance Hauck",
+       "location":"Queens",
+       "specialties":[
+          "Investment advice"
+       ],
+       "certification":"Registered Investment Advisor (RIA)",
+       "avatar_url":"/avatars/A 43.png",
+       "id":43
+    },
+    {
+       "name":"Efren Kunde",
+       "location":"Staten Island",
+       "specialties":[
+          "Debt management"
+       ],
+       "avatar_url":"/avatars/A 44.png",
+       "id":44
+    },
+    {
+       "name":"Libbie Schroeder",
+       "location":"Queens",
+       "specialties":[
+          "Investment advice"
+       ],
+       "certification":"Registered Investment Advisor (RIA)",
+       "avatar_url":"/avatars/A 45.png",
+       "id":45
+    },
+    {
+       "name":"Keshaun Lockman",
+       "location":"Manhattan",
+       "specialties":[
+          "Budgeting"
+       ],
+       "certification":"Certified Public Accountant (CPA)",
+       "avatar_url":"/avatars/A 46.png",
+       "id":46
+    },
+    {
+       "name":"Myrtie Fahey",
+       "location":"Bronx",
+       "specialties":[
+          "Long-term care",
+          "Debt management"
+       ],
+       "certification":"Registered Investment Advisor (RIA)",
+       "avatar_url":"/avatars/A 47.png",
+       "id":47
+    },
+    {
+       "name":"Alice Jerde",
+       "location":"Queens",
+       "specialties":[
+          "Saving for college",
+          "Budgeting",
+          "Retirement planning"
+       ],
+       "certification":"Personal Financial Specialist (PFS)",
+       "avatar_url":"/avatars/A 48.png",
+       "id":48
+    },
+    {
+       "name":"Tod Ryan",
+       "location":"Staten Island",
+       "specialties":[
+          "Budgeting",
+          "Estate planning"
+       ],
+       "certification":"Personal Financial Specialist (PFS)",
+       "avatar_url":"/avatars/A 49.png",
+       "id":49
+    },
+    {
+       "name":"Dion Schaefer",
+       "location":"Staten Island",
+       "specialties":[
+          "Saving for college",
+          "Long-term care",
+          "Estate planning"
+       ],
+       "certification":"Chartered Life Underwriter (CLU)",
+       "avatar_url":"/avatars/A 50.png",
+       "id":50
+    },
+    {
+       "name":"Wilbert Kutch",
+       "location":"Staten Island",
+       "specialties":[
+          "Tax planning"
+       ],
+       "certification":"Chartered Life Underwriter (CLU)",
+       "id":51
+    },
+    {
+       "name":"Mabelle Mohr",
+       "location":"Brooklyn",
+       "certification":"Personal Financial Specialist (PFS)",
+       "avatar_url":"/avatars/A 52.png",
+       "id":52
+    },
+    {
+       "name":"Clark Ernser",
+       "location":"Queens",
+       "specialties":[
+          "Investment advice"
+       ],
+       "certification":"Chartered Financial Analyst (CFA)",
+       "avatar_url":"/avatars/A 53.png",
+       "id":53
+    },
+    {
+       "name":"Keaton Bednar",
+       "location":"Queens",
+       "specialties":[
+          "Long-term care"
+       ],
+       "certification":"Personal Financial Specialist (PFS)",
+       "avatar_url":"/avatars/A 54.png",
+       "id":54
+    },
+    {
+       "name":"Jayde Effertz",
+       "location":"Queens",
+       "specialties":[
+          "Budgeting"
+       ],
+       "certification":"Chartered Life Underwriter (CLU)",
+       "avatar_url":"/avatars/A 55.png",
+       "id":55
+    },
+    {
+       "name":"Rachel Bernier",
+       "location":"Brooklyn",
+       "certification":"Registered Investment Advisor (RIA)",
+       "avatar_url":"/avatars/A 56.png",
+       "id":56
+    },
+    {
+       "location":"Staten Island",
+       "specialties":[
+          "Budgeting",
+          "Long-term care",
+          "Retirement planning"
+       ],
+       "certification":"Registered Investment Advisor (RIA)",
+       "avatar_url":"/avatars/A 57.png",
+       "id":57
+    },
+    {
+       "name":"Chandler Kub",
+       "location":"Manhattan",
+       "specialties":[
+          "Budgeting"
+       ],
+       "certification":"Chartered Life Underwriter (CLU)",
+       "avatar_url":"/avatars/A 58.png",
+       "id":58
+    },
+    {
+       "location":"Staten Island",
+       "specialties":[
+          "Long-term care",
+          "Investment advice",
+          "Budgeting"
+       ],
+       "certification":"Personal Financial Specialist (PFS)",
+       "avatar_url":"/avatars/A 59.png",
+       "id":59
+    },
+    {
+       "name":"Caitlyn Rath",
+       "location":"Brooklyn",
+       "specialties":[
+          "Debt management"
+       ],
+       "certification":"Chartered Financial Analyst (CFA)",
+       "avatar_url":"/avatars/A 60.png",
+       "id":60
+    },
+    {
+       "name":"Maddison Schimmel",
+       "location":"Queens",
+       "specialties":[
+          "Budgeting"
+       ],
+       "avatar_url":"/avatars/A 61.png",
+       "id":61
+    },
+    {
+       "name":"Makenzie Fadel",
+       "location":"Staten Island",
+       "specialties":[
+          "Tax planning",
+          "Debt management"
+       ],
+       "certification":"Chartered Financial Consultant (ChFC)",
+       "id":62
+    },
+    {
+       "name":"Alden Marvin",
+       "location":"Manhattan",
+       "specialties":[
+          "Investment advice",
+          "Investment advice"
+       ],
+       "certification":"Certified Public Accountant (CPA)",
+       "avatar_url":"/avatars/A 63.png",
+       "id":63
+    },
+    {
+       "name":"Carole Hirthe",
+       "location":"Brooklyn",
+       "specialties":[
+          "Tax planning"
+       ],
+       "certification":"Chartered Life Underwriter (CLU)",
+       "avatar_url":"/avatars/A 64.png",
+       "id":64
+    },
+    {
+       "name":"Willis Senger",
+       "location":"Manhattan",
+       "specialties":[
+          "Long-term care",
+          "Retirement planning"
+       ],
+       "certification":"Certified Financial Planner (CFP)",
+       "avatar_url":"/avatars/A 65.png",
+       "id":65
+    },
+    {
+       "name":"Layla Gaylord",
+       "specialties":[
+          "Budgeting"
+       ],
+       "certification":"Personal Financial Specialist (PFS)",
+       "avatar_url":"/avatars/A 66.png",
+       "id":66
+    },
+    {
+       "name":"Tressie Daugherty",
+       "location":"Bronx",
+       "specialties":[
+          "Budgeting",
+          "Tax planning"
+       ],
+       "certification":"Chartered Life Underwriter (CLU)",
+       "avatar_url":"/avatars/A 67.png",
+       "id":67
+    },
+    {
+       "name":"Jaydon Conroy",
+       "location":"Brooklyn",
+       "specialties":[
+          "Debt management",
+          "Estate planning"
+       ],
+       "certification":"Chartered Financial Consultant (ChFC)",
+       "avatar_url":"/avatars/A 68.png",
+       "id":68
+    },
+    {
+       "location":"Brooklyn",
+       "specialties":[
+          "Tax planning"
+       ],
+       "certification":"Chartered Financial Consultant (ChFC)",
+       "avatar_url":"/avatars/A 69.png",
+       "id":69
+    },
+    {
+       "name":"Santiago Huel",
+       "location":"Queens",
+       "specialties":[
+          "Long-term care"
+       ],
+       "certification":"Chartered Financial Consultant (ChFC)",
+       "avatar_url":"/avatars/A 70.png",
+       "id":70
+    },
+    {
+       "location":"Staten Island",
+       "specialties":[
+          "Retirement planning",
+          "Investment advice"
+       ],
+       "certification":"Chartered Life Underwriter (CLU)",
+       "avatar_url":"/avatars/A 71.png",
+       "id":71
+    },
+    {
+       "name":"Francisco Windler",
+       "location":"Brooklyn",
+       "specialties":[
+          "Saving for college",
+          "Saving for college"
+       ],
+       "certification":"Registered Investment Advisor (RIA)",
+       "avatar_url":"/avatars/A 72.png",
+       "id":72
+    },
+    {
+       "name":"Caitlyn Bosco",
+       "location":"Manhattan",
+       "specialties":[
+          "Tax planning",
+          "Debt management",
+          "Estate planning"
+       ],
+       "certification":"Chartered Mutual Fund Counselor (CMFC)",
+       "avatar_url":"/avatars/A 73.png",
+       "id":73
+    },
+    {
+       "name":"Edyth Streich",
+       "location":"Staten Island",
+       "specialties":[
+          "Saving for college"
+       ],
+       "certification":"Chartered Life Underwriter (CLU)",
+       "avatar_url":"/avatars/A 74.png",
+       "id":74
+    },
+    {
+       "name":"Lucienne McKenzie",
+       "location":"Brooklyn",
+       "specialties":[
+          "Tax planning",
+          "Tax planning",
+          "Investment advice"
+       ],
+       "certification":"Certified Financial Planner (CFP)",
+       "avatar_url":"/avatars/A 75.png",
+       "id":75
+    },
+    {
+       "name":"Maya Nolan",
+       "location":"Bronx",
+       "specialties":[
+          "Saving for college",
+          "Long-term care"
+       ],
+       "certification":"Registered Investment Advisor (RIA)",
+       "avatar_url":"/avatars/A 76.png",
+       "id":76
+    },
+    {
+       "name":"Fae Cruickshank",
+       "location":"Queens",
+       "specialties":[
+          "Debt management"
+       ],
+       "certification":"Chartered Mutual Fund Counselor (CMFC)",
+       "avatar_url":"/avatars/A 77.png",
+       "id":77
+    },
+    {
+       "name":"Kody Grady",
+       "location":"Brooklyn",
+       "specialties":[
+          "Retirement planning"
+       ],
+       "certification":"Chartered Life Underwriter (CLU)",
+       "avatar_url":"/avatars/A 78.png",
+       "id":78
+    },
+    {
+       "name":"Ila Feeney",
+       "location":"Queens",
+       "specialties":[
+          "Estate planning"
+       ],
+       "certification":"Personal Financial Specialist (PFS)",
+       "avatar_url":"/avatars/A 79.png",
+       "id":79
+    },
+    {
+       "name":"Lavon Carroll",
+       "location":"Brooklyn",
+       "specialties":[
+          "Retirement planning",
+          "Tax planning"
+       ],
+       "certification":"Registered Investment Advisor (RIA)",
+       "avatar_url":"/avatars/A 80.png",
+       "id":80
+    },
+    {
+       "name":"Hattie Nienow",
+       "location":"Queens",
+       "specialties":[
+          "Estate planning"
+       ],
+       "certification":"Chartered Financial Consultant (ChFC)",
+       "avatar_url":"/avatars/A 81.png",
+       "id":81
+    },
+    {
+       "name":"Olga Kozey",
+       "location":"Manhattan",
+       "specialties":[
+          "Budgeting",
+          "Saving for college",
+          "Investment advice"
+       ],
+       "certification":"Chartered Financial Analyst (CFA)",
+       "avatar_url":"/avatars/A 82.png",
+       "id":82
+    },
+    {
+       "name":"Larry Balistreri",
+       "location":"Brooklyn",
+       "specialties":[
+          "Long-term care"
+       ],
+       "certification":"Certified Public Accountant (CPA)",
+       "avatar_url":"/avatars/A 83.png",
+       "id":83
+    },
+    {
+       "name":"Kole Schultz",
+       "location":"Brooklyn",
+       "specialties":[
+          "Long-term care"
+       ],
+       "certification":"Certified Financial Planner (CFP)",
+       "avatar_url":"/avatars/A 84.png",
+       "id":84
+    },
+    {
+       "name":"Fernando Funk",
+       "location":"Bronx",
+       "specialties":[
+          "Tax planning"
+       ],
+       "certification":"Chartered Financial Analyst (CFA)",
+       "avatar_url":"/avatars/A 85.png",
+       "id":85
+    },
+    {
+       "name":"Ezequiel Corwin",
+       "location":"Brooklyn",
+       "specialties":[
+          "Debt management"
+       ],
+       "certification":"Chartered Mutual Fund Counselor (CMFC)",
+       "avatar_url":"/avatars/A 86.png",
+       "id":86
+    },
+    {
+       "name":"Lucienne Schuster",
+       "location":"Queens",
+       "specialties":[
+          "Debt management",
+          "Estate planning"
+       ],
+       "certification":"Chartered Financial Consultant (ChFC)",
+       "avatar_url":"/avatars/A 87.png",
+       "id":87
+    },
+    {
+       "name":"Lavada Gulgowski",
+       "location":"Bronx",
+       "specialties":[
+          "Estate planning",
+          "Investment advice"
+       ],
+       "certification":"Chartered Financial Analyst (CFA)",
+       "avatar_url":"/avatars/A 88.png",
+       "id":88
+    },
+    {
+       "name":"Camden Adams",
+       "location":"Staten Island",
+       "certification":"Chartered Life Underwriter (CLU)",
+       "avatar_url":"/avatars/A 89.png",
+       "id":89
+    },
+    {
+       "name":"Nigel O'Connell",
+       "location":"Queens",
+       "specialties":[
+          "Budgeting"
+       ],
+       "certification":"Chartered Financial Consultant (ChFC)",
+       "avatar_url":"/avatars/A 90.png",
+       "id":90
+    },
+    {
+       "name":"Chesley Heathcote",
+       "location":"Queens",
+       "specialties":[
+          "Investment advice"
+       ],
+       "certification":"Certified Public Accountant (CPA)",
+       "avatar_url":"/avatars/A 91.png",
+       "id":91
+    },
+    {
+       "name":"Alf Kessler",
+       "location":"Queens",
+       "specialties":[
+          "Retirement planning"
+       ],
+       "certification":"Certified Public Accountant (CPA)",
+       "avatar_url":"/avatars/A 92.png",
+       "id":92
+    },
+    {
+       "name":"Darian Hudson",
+       "specialties":[
+          "Long-term care",
+          "Debt management",
+          "Debt management"
+       ],
+       "certification":"Personal Financial Specialist (PFS)",
+       "avatar_url":"/avatars/A 93.png",
+       "id":93
+    },
+    {
+       "name":"Melvina Rutherford",
+       "location":"Queens",
+       "certification":"Certified Public Accountant (CPA)",
+       "avatar_url":"/avatars/A 94.png",
+       "id":94
+    },
+    {
+       "name":"Jacey Spinka",
+       "location":"Brooklyn",
+       "specialties":[
+          "Saving for college"
+       ],
+       "certification":"Registered Investment Advisor (RIA)",
+       "avatar_url":"/avatars/A 95.png",
+       "id":95
+    },
+    {
+       "name":"Tillman Von",
+       "location":"Staten Island",
+       "specialties":[
+          "Estate planning",
+          "Retirement planning"
+       ],
+       "certification":"Chartered Financial Analyst (CFA)",
+       "avatar_url":"/avatars/A 96.png",
+       "id":96
+    },
+    {
+       "name":"Carmel Cruickshank",
+       "location":"Bronx",
+       "specialties":[
+          "Tax planning",
+          "Estate planning"
+       ],
+       "certification":"Chartered Life Underwriter (CLU)",
+       "avatar_url":"/avatars/A 97.png",
+       "id":97
+    },
+    {
+       "name":"Rhianna Roob",
+       "location":"Brooklyn",
+       "specialties":[
+          "Investment advice"
+       ],
+       "certification":"Certified Public Accountant (CPA)",
+       "avatar_url":"/avatars/A 98.png",
+       "id":98
+    },
+    {
+       "name":"Brigitte Rau",
+       "location":"Bronx",
+       "certification":"Chartered Mutual Fund Counselor (CMFC)",
+       "avatar_url":"/avatars/A 99.png",
+       "id":99
+    },
+    {
+       "name":"Leonard Wisoky",
+       "location":"Bronx",
+       "specialties":[
+          "Tax planning"
+       ],
+       "avatar_url":"/avatars/A 100.png",
+       "id":100
+    }
+ ]

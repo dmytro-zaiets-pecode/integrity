@@ -1,0 +1,34 @@
+Pre-development Discussion	
+
+Q: Overall, provide your response, questions, and guidance to your colleagues.
+We need to decide which libraries we will use with the team
+Code rules (for example, the structure of folders or their names)
+Select a style library
+If there is a team, then you need to divide this layout into tasks and allocate them
+
+Q: What additional information is needed to begin implementation?
+- Information on the use of some technologies may be required (for example, whether NextJS will be used or not)
+
+
+Q: Write an initial development plan that outlines a breakdown of the steps necessary to complete this feature.
+- Look at the design
+- Choose the most suitable library for the design
+-Develop pagination and filtering algorithms
+-Develop an interface by design
+-Test the application for errors
+
+Post-development Discussion
+
+Q: If you were submitting this work as an actual PR to a production repo to be reviewed by a peer, what additional information would you communicate to them?
+ - Compliance with the rules of writing code in a team
+ - Testing filtering and logic in the application
+
+
+Q: Describe at least two particular limitations of your approach: What can’t it handle that we might need to address? Why did you make that choice? What are the alternatives?
+Q: Write a brief summary of what you would do next if you had more time.
+
+ - The application works according to the requirements for it.
+ - I implemented this with materialUI  because it fits the layout best in my opinion, but it was better to add a styled components library because the standard components need to change their appearance (this solution will remove a lot of styles in the components themselves).
+ - I also didn't use the Redux you recommended because we have a ready data file in the project and it takes a long time to add it. It is unclear what technologies will be used in the actual project. Perhaps we could just use parameters in Next, or the project would use graphQL (in which case we could ditch the state manager)
+ - You can also separate the logic and layout if you have more time or optimize the code somehow
+ - The data file has paths to people's avatars, but no corresponding folder, so I created dynamic avatars for each
